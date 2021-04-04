@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.63e75195.chunk.css",
-    "main.js": "/static/js/main.e2b45e18.chunk.js",
-    "main.js.map": "/static/js/main.e2b45e18.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.14a3c6f2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.14a3c6f2.js.map",
-    "static/js/2.eca3f467.chunk.js": "/static/js/2.eca3f467.chunk.js",
-    "static/js/2.eca3f467.chunk.js.map": "/static/js/2.eca3f467.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.63e75195.chunk.css.map": "/static/css/main.63e75195.chunk.css.map",
-    "static/js/2.eca3f467.chunk.js.LICENSE.txt": "/static/js/2.eca3f467.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/WeatherSundayPersonalUse-D5qx.259f7a17.otf",
-    "static/media/style.scss": "/static/media/invite_background.632d8b08.jpg",
-    "static/media/mitali_family.cabd7a0f.jpg": "/static/media/mitali_family.cabd7a0f.jpg",
-    "static/media/mitali_maternal_grandparents.2ee0360c.jpg": "/static/media/mitali_maternal_grandparents.2ee0360c.jpg",
-    "static/media/shahsi_first_uncle_aunt.51d1d235.jpg": "/static/media/shahsi_first_uncle_aunt.51d1d235.jpg",
-    "static/media/shahsi_second_uncle_aunt.15f0e938.jpg": "/static/media/shahsi_second_uncle_aunt.15f0e938.jpg",
-    "static/media/shashi_family.32810d8d.jpg": "/static/media/shashi_family.32810d8d.jpg"
+    "main.css": "./static/css/main.ade9e70a.chunk.css",
+    "main.js": "./static/js/main.e2b45e18.chunk.js",
+    "main.js.map": "./static/js/main.e2b45e18.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.28e3ecdf.js",
+    "runtime-main.js.map": "./static/js/runtime-main.28e3ecdf.js.map",
+    "static/js/2.eca3f467.chunk.js": "./static/js/2.eca3f467.chunk.js",
+    "static/js/2.eca3f467.chunk.js.map": "./static/js/2.eca3f467.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ade9e70a.chunk.css.map": "./static/css/main.ade9e70a.chunk.css.map",
+    "static/js/2.eca3f467.chunk.js.LICENSE.txt": "./static/js/2.eca3f467.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/WeatherSundayPersonalUse-D5qx.259f7a17.otf",
+    "static/media/style.scss": "./static/media/invite_background.632d8b08.jpg",
+    "static/media/mitali_family.cabd7a0f.jpg": "./static/media/mitali_family.cabd7a0f.jpg",
+    "static/media/mitali_maternal_grandparents.2ee0360c.jpg": "./static/media/mitali_maternal_grandparents.2ee0360c.jpg",
+    "static/media/shahsi_first_uncle_aunt.51d1d235.jpg": "./static/media/shahsi_first_uncle_aunt.51d1d235.jpg",
+    "static/media/shahsi_second_uncle_aunt.15f0e938.jpg": "./static/media/shahsi_second_uncle_aunt.15f0e938.jpg",
+    "static/media/shashi_family.32810d8d.jpg": "./static/media/shashi_family.32810d8d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14a3c6f2.js",
+    "static/js/runtime-main.28e3ecdf.js",
     "static/js/2.eca3f467.chunk.js",
-    "static/css/main.63e75195.chunk.css",
+    "static/css/main.ade9e70a.chunk.css",
     "static/js/main.e2b45e18.chunk.js"
   ]
 }
